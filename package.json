@@ -1,0 +1,23 @@
+{
+  "name": "dummy_node_module",
+  "version": "1.0.0",
+  "description": "Making a dummy module that can be published ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curiouskaran/dummy_node_module.git"
+  },
+  "keywords": [
+    "node",
+    "module"
+  ],
+  "author": "Karan Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/curiouskaran/dummy_node_module/issues"
+  },
+  "homepage": "https://github.com/curiouskaran/dummy_node_module#readme"
+}
